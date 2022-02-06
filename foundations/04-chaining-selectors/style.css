@@ -1,0 +1,12 @@
+/* CSS for Odin CSS Foundation 04- Chaining Selectors */
+
+.avatar,.proportioned{
+    height: 300px;
+    width: auto;
+}
+
+.avatar,.distorted{
+    height: 400px;
+    width: 200px;
+}
+
